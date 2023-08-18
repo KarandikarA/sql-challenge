@@ -9,7 +9,7 @@ create table "departments" (
 create table "titles" (
     "title_id" varchar(20)   not NULL,
     "title" varchar(30)   not NULL,
-    PRIMARY KEY ("title_id")
+    primary KEY ("title_id")
 );
 
 -- Create table for Employees  

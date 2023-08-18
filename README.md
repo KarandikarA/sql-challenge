@@ -20,3 +20,4 @@ List the employee number, last name, first name, sex, and salary of each employe
 7. Listing all the employees in both the Sales and Development departments with their  employee number, last name, and first name.
 8. What the frequency count of the employees last names was and listing the nubmer who had the same last name in a descending order. 
 
+For the project, I attended one study session on Wednesday, August 16th at 5:30pm with Justin Moore where I got help with multiple problems with my challenge. In addition, I used stack overflow to help me when I had problems getting the sql to work. I also used the module directions to help me do the challenge. For the ERD diagram, I used the QuickDBD tool. 

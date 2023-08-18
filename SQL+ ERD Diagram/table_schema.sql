@@ -9,7 +9,7 @@ create table "departments" (
 create table "titles" (
     "title_id" varchar(20)   not NULL,
     "title" varchar(30)   not NULL,
-    primary KEY ("title_id")
+    primary key ("title_id")
 );
 
 -- Create table for Employees  
@@ -43,8 +43,8 @@ create table "dept_manager" (
 
 -- Create table for Salaries  
 create table "salaries" (
-    "emp_no" INT   NOT NULL,
-    "salary" INT   NOT NULL,
+    "emp_no" INT   not NULL,
+    "salary" INT   not NULL,
     foreign key ("emp_no") references "employees" ("emp_no")
 );
 
